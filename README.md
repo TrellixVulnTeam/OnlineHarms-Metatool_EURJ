@@ -1,6 +1,6 @@
 # OnlineHarms-Metatool
 
-The goal of this project is to provide an out-of-the-box way to test whether a text is likely to be abusive or not using previously published classifiers trained on published annotated abusive speech datasets. 
+The goal of this project is to provide an out-of-the-box way to test whether a text is likely to be abusive or not using published classifiers trained on various annotated abusive speech datasets. 
 
 Simply put, given a file of texts, the program generates several reports on whether each text is abusive or not. 
 
