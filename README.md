@@ -1,4 +1,4 @@
-# OnlineHarms-Metatool
+# Online Harms: A Meta-Tool for Abusive Speech Detection
 
 The goal of this project is to provide an out-of-the-box way to test whether a text is likely to be abusive or not using published classifiers trained on various annotated abusive speech datasets. 
 
