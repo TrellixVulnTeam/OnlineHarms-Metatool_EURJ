@@ -60,3 +60,5 @@ If you are using a new classifier, then make sure that the structure followed is
 - Bug fixes
 
 ## Acknowledgements
+
+The development of this tool was supported by EPSRC Grant Ref: EP/T001569/1 for “Artificial Intelligence for Science, Engineering, Health and Government”, and particularly the “Tools, Practices and Systems” theme via the “Detecting and Understanding Harmful Content Online: A Metatool Approach” project.
