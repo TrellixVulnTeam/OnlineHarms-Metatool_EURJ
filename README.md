@@ -10,7 +10,7 @@ Given a file of texts, the program generates reports on whether each text is abu
 
 1. Clone the project by typing the following in your command line: `git clone https://github.com/amittos/OnlineHarms-Metatool.git`. 
 2. Change directory: `cd OnlineHarms-Metatool/`
-3. Use the virtual environment provided by running: `python3 -m venv MetatoolVenv/`
+3. Use the virtual environment provided by running: `source MetatoolVenv/bin/activate`
 4. Run the program by typing `python3 main.py`
 
 #### Method 2:
