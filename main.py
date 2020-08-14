@@ -4,9 +4,6 @@
 #   Institute:      University College London
 #   Initiated On:   March 6, 2020
 #
-#   Information:    This is the `Master Chief` script. It trains and tests all classifiers
-#                   on all datasets. .
-#
 #=========================================================================================#
 
 #===========================#
@@ -17,13 +14,14 @@ import datetime
 import subprocess
 import os
 import pandas as pd
-from collections import Counter
+import nltk
+nltk.download('all')
 
 #===========================#
 #        Variables          #
 #===========================#
 
-classifiers = ['Davidson', 'Wulcyzn']
+classifiers = ['Davidson', 'Wulcyzn', 'Pelicon']
 datasets = ['Davidson', 'Founta', 'Gilbert', 'JingGab', 'JingReddit', 'Kaggle', 'Wazeem', 'Wulcyzn', 'Zampieri']
 all_results_path = 'Results/'
 pd.set_option('display.max_rows', 500)
